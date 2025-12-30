@@ -7,16 +7,23 @@
 </p>
 
 <div align="center">
-  [![HuggingFace Space](https://img.shields.io/badge/Demo-HuggingFace-blue?logo=huggingface)](https://huggingface.co/spaces/md896/CRLF-CIFAR10-SimCLR)
-  <img src="https://img.shields.io/badge/Framework-PyTorch-red?logo=pytorch">
-  <img src="https://img.shields.io/badge/Language-Python-blue?logo=python">
-  <img src="https://img.shields.io/badge/Task-Self%20Supervised%20Learning-green">
-  <img src="https://img.shields.io/badge/Dataset-CIFAR10-orange?logo=data:image/png">
-  <img src="https://img.shields.io/badge/Device-Apple%20M2%20MPS-black?logo=apple">
-  <img src="https://img.shields.io/badge/License-MIT-yellow">
-  <img src="https://img.shields.io/badge/Version-1.0.0-blueviolet">
-  
+
+<a href="https://huggingface.co/spaces/md896/CRLF-CIFAR10-SimCLR">
+  <img src="https://img.shields.io/badge/Try%20Live%20Demo-HuggingFace-blue?logo=huggingface" />
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Framework-PyTorch-red?logo=pytorch">
+<img src="https://img.shields.io/badge/Language-Python-blue?logo=python">
+<img src="https://img.shields.io/badge/Learning-Self%20Supervised-green">
+<img src="https://img.shields.io/badge/Dataset-CIFAR10-orange">
+<img src="https://img.shields.io/badge/Hardware-Apple%20Silicon-black?logo=apple">
+<img src="https://img.shields.io/badge/License-MIT-yellow">
+<img src="https://img.shields.io/badge/Version-1.0.0-blueviolet">
+
 </div>
+
 
 ---
 
