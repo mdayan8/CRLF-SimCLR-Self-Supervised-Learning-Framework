@@ -1,4 +1,4 @@
-# 🧠 CRLF-CIFAR10: Contrastive Representation Learning Framework
+# 🧠 CRLF — SimCLR Self-Supervised Learning Framework / CRLF-CIFAR10: Contrastive Representation Learning Framework
 
 ### **State-of-the-Art Self-Supervised Learning on CIFAR-10**
 
@@ -7,7 +7,7 @@
 </p>
 
 <div align="center">
-  
+  [![HuggingFace Space](https://img.shields.io/badge/Demo-HuggingFace-blue?logo=huggingface)](https://huggingface.co/spaces/md896/CRLF-CIFAR10-SimCLR)
   <img src="https://img.shields.io/badge/Framework-PyTorch-red?logo=pytorch">
   <img src="https://img.shields.io/badge/Language-Python-blue?logo=python">
   <img src="https://img.shields.io/badge/Task-Self%20Supervised%20Learning-green">
